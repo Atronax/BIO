@@ -1,5 +1,7 @@
 # BIO
 
+QUEST: make something similar to these work during your lifetime to enhance life. Life project should be great on content by our will and strength to do something important for life.
+
 contacts:  
 email: atronax321@gmail.com  
 facebook: atronax.duskkeeper  
